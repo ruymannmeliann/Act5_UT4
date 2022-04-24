@@ -4,6 +4,13 @@ import java.util.Random;
 
 public class Actividad5UT4 {
 
+    /**
+     *
+     * Método esPrimo
+     * Método que calcula si un número es primo o no
+     *
+     */
+
     private static boolean esPrimo (int n, int nada) {
         boolean resultado = true;
         if (n == 0)
